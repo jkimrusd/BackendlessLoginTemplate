@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BackendlessLoginTemplate</string>
+    <string name="edittext_login_username">Username</string>
+    <string name="button_login">Login</string>
+    <string name="textview_create_a_new_account">Create a New Account</string>
+    <string name="edittext_password">Password</string>
+    <string name="edittext_confirm_password">Confirm Password</string>
+    <string name="edittext_email">Email</string>
+    <string name="edittext_name">Name</string>
+    <string name="button_create">Create</string>
+</resources>
